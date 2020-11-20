@@ -24,9 +24,10 @@
     "nconf": "^0.10.0",
     "pino": "^4.10.4",
     "pino-http": "^3.1.0",
-    "pouchdb-node": "6.4.3",
+    "pouchdb-node": "7.2.2",
     "recursive-readdir": "^2.2.1",
-    "xml2js": "^0.4.19"
+    "xml2js": "^0.4.19",
+    "yargs": "^16.1.1"
   },
   "devDependencies": {
     "json": "^9.0.6",
