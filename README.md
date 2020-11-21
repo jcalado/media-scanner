@@ -1,3 +1,7 @@
+What does this fork add to the original project?
+===============
+Command line arguments. Right now it can take a "--port 8090" argument to override defaults. There's an alias for "--port" called "--p".
+
 CasparCG Media-Scanner
 ===============
 
